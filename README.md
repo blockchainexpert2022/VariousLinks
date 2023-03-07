@@ -14,3 +14,5 @@ https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide/red-offensive/t
 
 Metasploit Postgresql
 https://www.kali.org/docs/tools/starting-metasploit-framework-in-kali/
+https://www.offsec.com/metasploit-unleashed/port-scanning/
+
