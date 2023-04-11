@@ -16,3 +16,8 @@ Metasploit Postgresql
 https://www.kali.org/docs/tools/starting-metasploit-framework-in-kali/
 https://www.offsec.com/metasploit-unleashed/port-scanning/
 
+Teletrader website (a lot of live financial data)
+https://www.teletrader.com/markets/overview
+
+Frequency generator online
+https://frequencygenerator.app/
