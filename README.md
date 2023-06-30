@@ -31,3 +31,4 @@ https://www.videosoftdev.com/
 Twitter dorks
 https://cheatsheet.haax.fr/open-source-intelligence-osint/dorks/twitter_dorks/
 
+Powerful Youtube Video Information Extraction https://www.clarityclips.com/
