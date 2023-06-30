@@ -28,4 +28,6 @@ https://converter.app/mp3-to-mp4/result.php?lang=fr
 VSDC Free Video Editor (and Recorder)
 https://www.videosoftdev.com/
 
+Twitter dorks
+https://cheatsheet.haax.fr/open-source-intelligence-osint/dorks/twitter_dorks/
 
