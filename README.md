@@ -32,3 +32,16 @@ Twitter dorks
 https://cheatsheet.haax.fr/open-source-intelligence-osint/dorks/twitter_dorks/
 
 Powerful Youtube Video Information Extraction https://www.clarityclips.com/
+
+AI LINKS
+https://lumalabs.ai/interactive-scenes
+
+https://www.perplexity.ai/
+
+https://www.suno.ai/
+
+https://soundraw.io/edit_music?length=180&tempo=low,normal,high&genre=House
+
+
+
+
