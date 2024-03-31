@@ -33,7 +33,7 @@ https://cheatsheet.haax.fr/open-source-intelligence-osint/dorks/twitter_dorks/
 
 Powerful Youtube Video Information Extraction https://www.clarityclips.com/
 
-AI LINKS
+*AI LINKS*
 https://lumalabs.ai/interactive-scenes
 
 https://www.perplexity.ai/
