@@ -47,6 +47,14 @@ https://coral.cohere.com
 
 https://huggingface.co/spaces/CohereForAI/c4ai-command-r-plus
 
+https://chat.deepseek.com/coder
+
+https://app.codegpt.co/en
+
+https://www.tabnine.com/
+
+
+
 
 
 
