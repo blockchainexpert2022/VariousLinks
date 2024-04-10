@@ -53,6 +53,7 @@ https://app.codegpt.co/en
 
 https://www.tabnine.com/
 
+https://huggingface.co/spaces/Iker/Translate-100-languages
 
 
 
