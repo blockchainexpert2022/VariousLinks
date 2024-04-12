@@ -57,6 +57,7 @@ https://huggingface.co/spaces/Iker/Translate-100-languages
 
 https://flowgpt.com/chat/woraigc-image-generator
 
+https://clip.opus.pro
 
 
 
