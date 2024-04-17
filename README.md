@@ -61,7 +61,6 @@ https://clip.opus.pro
 
 https://moviemaker.minitool.com/moviemaker/download-jw-player-videos.html
 
-
-
+https://fliki.ai/ (Générateur de vidéos)
 
 
