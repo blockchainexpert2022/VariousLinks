@@ -65,5 +65,7 @@ https://fliki.ai/ (Générateur de vidéos)
 
 https://www.udio.com/
 
+https://chat.lmsys.org/
+
 
 
