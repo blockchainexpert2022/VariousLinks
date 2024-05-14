@@ -67,5 +67,6 @@ https://www.udio.com/
 
 https://chat.lmsys.org/
 
+https://huggingface.co/spaces/ADOPLE/Video-Generator-AI
 
 
