@@ -38,3 +38,4 @@ https://huggingface.co/spaces/multimodalart/stable-video-diffusion
 
 https://gemini.google.com/app 
 
+https://docs.mistral.ai/guides/rag/
