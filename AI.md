@@ -40,5 +40,33 @@ https://gemini.google.com/app
 
 https://docs.mistral.ai/guides/rag/
 
+►Getting Started
 https://rentry.org/llama-mini-guide
+https://rentry.org/8-step-llm-guide
+https://rentry.org/llama_v2_sillytavern
+https://rentry.org/lmg-spoonfeed-guide
+https://rentry.org/rocm-llamacpp
+https://rentry.org/lmg-build-guides
 
+►Further Learning
+https://rentry.org/machine-learning-roadmap
+https://rentry.org/llm-training
+https://rentry.org/LocalModelsPapers
+
+►Benchmarks
+Chatbot Arena: https://chat.lmsys.org/?leaderboard
+Programming: https://hf.co/spaces/bigcode/bigcode-models-leaderboard
+Censorship: https://hf.co/spaces/DontPlanToEnd/UGI-Leaderboard
+Censorbench: https://codeberg.org/jts2323/censorbench
+
+►Tools
+Alpha Calculator: https://desmos.com/calculator/ffngla98yc
+GGUF VRAM Calculator: https://hf.co/spaces/NyxKrage/LLM-Model-VRAM-Calculator
+Sampler visualizer: https://artefact2.github.io/llm-sampling
+
+►Text Gen. UI, Inference Engines
+https://github.com/oobabooga/text-generation-webui
+https://github.com/LostRuins/koboldcpp
+https://github.com/lmg-anon/mikupad
+https://github.com/turboderp/exui
+https://github.com/ggerganov/llama.cpp
