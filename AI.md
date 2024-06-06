@@ -70,3 +70,6 @@ https://github.com/LostRuins/koboldcpp
 https://github.com/lmg-anon/mikupad
 https://github.com/turboderp/exui
 https://github.com/ggerganov/llama.cpp
+
+https://replicate.com/explore
+
