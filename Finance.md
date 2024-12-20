@@ -7,3 +7,5 @@ https://www.arkhamintelligence.com/
 https://blockstream.com/
 
 https://www.babypips.com/tools/forex-market-hours
+
+https://www.ictindex.io/
