@@ -9,3 +9,5 @@ https://blockstream.com/
 https://www.babypips.com/tools/forex-market-hours
 
 https://www.ictindex.io/
+
+https://trading.quantfury.com/
