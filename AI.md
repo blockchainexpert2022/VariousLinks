@@ -8,6 +8,8 @@ https://www.suno.ai/
 
 https://soundraw.io/edit_music?length=180&tempo=low,normal,high&genre=House
 
+https://fadr.com/remix/
+
 https://coral.cohere.com
 
 https://huggingface.co/spaces/CohereForAI/c4ai-command-r-plus
