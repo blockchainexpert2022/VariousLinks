@@ -13,3 +13,7 @@ https://www.ictindex.io/
 https://trading.quantfury.com/
 
 https://pro.openbb.co/
+
+https://finchat.io/
+
+
