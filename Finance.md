@@ -11,3 +11,5 @@ https://www.babypips.com/tools/forex-market-hours
 https://www.ictindex.io/
 
 https://trading.quantfury.com/
+
+https://pro.openbb.co/
