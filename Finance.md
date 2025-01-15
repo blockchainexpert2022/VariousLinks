@@ -16,4 +16,4 @@ https://pro.openbb.co/
 
 https://finchat.io/
 
-
+https://tradingeconomics.com/
