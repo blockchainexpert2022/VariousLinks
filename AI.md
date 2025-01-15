@@ -77,4 +77,5 @@ https://replicate.com/explore
 
 https://llamacoder.together.ai/
 
+https://hailuoai.video/create
 
