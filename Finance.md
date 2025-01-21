@@ -17,3 +17,5 @@ https://pro.openbb.co/
 https://finchat.io/
 
 https://tradingeconomics.com/
+
+https://www.quantower.com/
