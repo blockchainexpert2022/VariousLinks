@@ -79,3 +79,6 @@ https://llamacoder.together.ai/
 
 https://hailuoai.video/create
 
+Chat with doc
+https://app.txyz.ai/
+
