@@ -82,3 +82,7 @@ https://hailuoai.video/create
 Chat with doc
 https://app.txyz.ai/
 
+Cutting-edge open multimodal model exceling in high-quality reasoning from image and audio inputs.
+https://build.nvidia.com/microsoft/phi-4-multimodal-instruct
+
+
