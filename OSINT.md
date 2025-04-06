@@ -28,4 +28,5 @@ https://dehashed.com/
 
 https://weleakinfo.io/
 
+https://namechk.com/
 
