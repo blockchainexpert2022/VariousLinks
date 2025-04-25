@@ -88,6 +88,6 @@ https://build.nvidia.com/microsoft/phi-4-multimodal-instruct
 Detect AI generated content
 https://gptzero.me/
 
-
+https://beta.lmarena.ai/
 
 
