@@ -90,4 +90,6 @@ https://gptzero.me/
 
 https://beta.lmarena.ai/
 
+https://app.textcortex.com/
+
 
