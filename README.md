@@ -34,3 +34,5 @@ https://cheatsheet.haax.fr/open-source-intelligence-osint/dorks/twitter_dorks/
 **Powerful Youtube Video Information Extraction** https://www.clarityclips.com/
 
 irm https://get.activated.win | iex
+
+https://www.oo-software.com/fr/
