@@ -36,3 +36,5 @@ https://cheatsheet.haax.fr/open-source-intelligence-osint/dorks/twitter_dorks/
 irm https://get.activated.win | iex
 
 https://www.oo-software.com/fr/
+
+https://www.nirsoft.net/password_recovery_tools.html
